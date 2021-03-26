@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-optional-chaining-check",
+  "version": "1.0.2",
+  "description": "微信小程序setData时，对传入参数进行有无可选链用法判断",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "zhou",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "mocha": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  }
+}
