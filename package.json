@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-optional-chaining-check",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "微信小程序setData时，对传入参数进行有无可选链用法判断",
   "keywords": [
     "eslint",
