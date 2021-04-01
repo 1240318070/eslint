@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-optional-chaining-check",
-  "version": "1.0.4",
-  "description": "微信小程序setData时，对传入参数进行有无可选链用法判断",
+  "name": "mtyx-custom-eslint-plugin",
+  "version": "1.0.1",
+  "description": "有关微信小程序的一些规则，比如setData使用可选链时必须||一个值",
   "keywords": [
     "eslint",
     "eslintplugin",
