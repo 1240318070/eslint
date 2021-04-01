@@ -1,5 +1,5 @@
 {
-  "name": "mtyx-custom-eslint-plugin",
+  "name": "eslint-plugin-mtyx-custom",
   "version": "1.0.1",
   "description": "有关微信小程序的一些规则，比如setData使用可选链时必须||一个值",
   "keywords": [
